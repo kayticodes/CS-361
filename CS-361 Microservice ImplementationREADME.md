@@ -8,3 +8,8 @@ Example Call while microservice is running:
     f.write(25)
     
 B. To recieve data from the microservice, have a txt file called calc-service.txt that the microservice will send data through. Once it receive a request, it will write the appropriate data into calc-service.txt. 
+
+
+Micro service UML link 
+https://github.com/kayticodes/CS-361/blob/main/MicroserviceUML.png
+
